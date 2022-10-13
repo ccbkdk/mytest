@@ -1,0 +1,15 @@
+body{
+    background-color: aqua;
+
+}
+
+.syed{
+    background-color: blue;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: medium;
+    text-align: center;
+    margin: auto;
+    display: inline;
+    border-style: dotted;
+
+}
